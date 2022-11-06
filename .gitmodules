@@ -20,7 +20,7 @@
 	branch = main 
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/p20oiko/_gallery
+	url = https://github.com/p20oiko/_gallery.git
 [submodule "images"]
 	path = images
-	url = https://github.com/p20oiko/images
+	url = https://github.com/p20oiko/images.git
