@@ -22,5 +22,6 @@ slides:
   - ical
   - atm-affective
   - gnu-nano
+  - xterm
 ---
 
