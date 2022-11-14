@@ -21,5 +21,6 @@ slides:
   - microsoft-bob
   - ical
   - atm-affective
+  - gnu-nano
 ---
 
