@@ -19,4 +19,6 @@ events:
   - oberon
   - sam-editor
   - acme-editor
+  - gnu-nano
+  - xterm
 ---
